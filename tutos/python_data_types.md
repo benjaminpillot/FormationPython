@@ -142,7 +142,7 @@ class Car:
     """
 ```
 
-Let's see the [`Time`](./examples/time_class.py) object example. This class gathers several concepts that we will work on later.
+Let's see the [`Time`](./FormationPython#examples/time_class.py) object example. This class gathers several concepts that we will work on later.
 
 ## Built-in objects
 The `str` type in Python allows, as the `Time` object, to call some methods we would use with `int` and `float` types:
@@ -194,9 +194,13 @@ array([[ 4,  0,  0, 18 ],
        [ 2,  0,  0, 16 ],
        [ 6, 32,  0, 12 ]])
 ```
-See also the small code [here](./examples/numpy_example.py)
+See also the small code [here](./FormationPython#examples/numpy_example.py)
 
 
-### `pandas` dataframes 
+### `pandas` dataframes and series
 
-`pandas` dataframes are a specific way of reading data tables with various data types. See the small example [here](./examples/pandas_example.py)
+* dataframes
+`pandas` dataframes are a specific way of reading data tables with various data types. See the small example [here](./FormationPython#examples/dataframe_example.py)
+
+* series
+`pandas` series typically stand for one-dimensional ndarray with axis labels. One common example is a time series.
