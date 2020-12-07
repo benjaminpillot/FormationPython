@@ -32,9 +32,8 @@ Whenever you need a new package, use `pip` in your virtual environment (either v
 $ pip install folium
 ```
 
-## Jupyter notebooks: mixing formatted text and code
+## Jupyter notebooks: mixing formatted text and code [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fframagit.org%2Fbenjaminpillot%2Fcovid-19/master)
 
 Whenever you want to present some code, you may use the Jupyter notebooks, a useful tool for data science presentation. It allows for mixing text (Markdown) and code in the same document.
 It opens in a browser, and allows for directly coding inside. You may implement LaTeX formulas alongside Python code snippets.
 
-See [covid notebook](https://nbviewer.jupyter.org/github/benjaminpillot/jupyter-notebooks/blob/master/covid-notebook.ipynb) for a demonstration of the powerfulness of this tool.

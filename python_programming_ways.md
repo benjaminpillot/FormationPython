@@ -61,4 +61,4 @@ def target():
 
 target = decorate(target)
 ```
-Generally, the first syntax is preferred, but both have the same result. See this [example](https://framagit.org/benjaminpillot/formation-python/-/blob/master/day3/decorator_example.py) to see how the way a decorator might be used.
+Generally, the first syntax is preferred, but both have the same result. See this [example](./decorator_example.py) to see the way a decorator might be used.
