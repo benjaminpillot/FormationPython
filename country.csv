@@ -1,0 +1,12 @@
+country,continent,population,pib,language
+France,Europe, 65,4000,French
+Senegal,Africa,35,1500,French/Wolof
+Portugal,Europe,10,3500,Portuguese
+UK,Europe,65,4000,English
+Germany,Europe,80,4500,German
+USA,North-America,300,5000,English
+Brazil,South-America,200,2000,Portuguese
+Japan,Asia,180,4500,Japanese
+Australia,Oceania,50,5000,English
+Djibouti,Africa,1,1500,Afar/Somali/French/Arabic
+Argentina,South-America,40,3000,Spanish
