@@ -1,2 +1,2 @@
 language = "bash"
-run = ""
+run = "pip install pandas ipython"
