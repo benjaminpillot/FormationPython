@@ -1,4 +1,14 @@
-![muse](https://github.com/benjaminpillot/FormationPython/blob/master/images/BaniereMBS.png)
+![muse](https://groupes.renater.fr/wiki/montpellier-biostat/_media/public/mbsbanner.png)
+![](https://groupes.renater.fr/wiki/montpellier-biostat/_media/public/kim_muse_data_life_science.png)
+![](https://groupes.renater.fr/wiki/montpellier-biostat/_media/public/logo_muse.jpg)
+
+
+<center>
+https://groupes.renater.fr/wiki/montpellier-biostat/
+</center>
+
+---
+
 
 # Programme du jour
 
