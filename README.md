@@ -1,3 +1,5 @@
+![alt text](./FormationPython#BaniereMBS.png)
+
 # Programme du jour
 
 ---

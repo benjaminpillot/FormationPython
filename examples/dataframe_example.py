@@ -8,7 +8,7 @@ More detailed description.
 import pandas as pd
 
 
-countries = pd.read_csv('country.csv', index_col=0)
+countries = pd.read_csv('examples/country.csv', index_col=0)
 
 for country in countries.index:
     print(f"{country}'s population: %d million(s)" % countries.loc[country, "population"])
