@@ -1,2 +1,5 @@
-language = "bash"
-run = "bash run_button.sh"
+#language = "bash"
+#run = "bash run_button.sh"
+
+language = "python3"
+run = "python ./examples/geopandas_example.py"

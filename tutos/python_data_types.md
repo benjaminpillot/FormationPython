@@ -204,3 +204,7 @@ See also the small code [here](./FormationPython#examples/numpy_example.py)
 
 * series
 `pandas` series typically stand for one-dimensional ndarray with axis labels. One common example is a time series (see example [here](./FormationPython#examples/series_example.py)).
+
+### `geopandas` dataframes and `geoseries`
+
+geodataframes are geographic dataframes with one column for geometry. See the small example [here](./FormationPython#examples/geopandas_example.py)
