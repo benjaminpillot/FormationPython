@@ -13,7 +13,7 @@ When working with GIScience, the following packages will make your life easier:
 * ``rasterio`` and ``gdal``: for working with rasters
 * ``networkx``: for working with networks and corresponding graphs (shortest path, etc.)
 * ``rtree``: for spatial indexing (useful when requiring speed up for large vector datasets)
-* ``folium``: for visualizing data that's been manipulated in Python on interactive leaflet maps (very useful together with Jupyter notebooks)
+* ``folium``: for visualizing data that's been manipulated in Python on interactive leaflet maps (very useful together with Jupyter notebooks), see [here](https://python-visualization.github.io/folium/quickstart.html#Getting-Started)
 
 ## Other useful Python packages
 * ``sqlalchemy``: for working with sql databases

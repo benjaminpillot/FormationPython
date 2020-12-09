@@ -203,4 +203,4 @@ See also the small code [here](./FormationPython#examples/numpy_example.py)
 `pandas` dataframes are a specific way of reading data tables with various data types. See the small example [here](./FormationPython#examples/dataframe_example.py)
 
 * series
-`pandas` series typically stand for one-dimensional ndarray with axis labels. One common example is a time series.
+`pandas` series typically stand for one-dimensional ndarray with axis labels. One common example is a time series (see example [here](./FormationPython#examples/series_example.py)).
