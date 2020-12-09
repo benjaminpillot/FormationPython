@@ -7,6 +7,11 @@
 https://groupes.renater.fr/wiki/montpellier-biostat/
 </center>
 
+<div align="center">
+
+# This is gonna be centered!
+</div>
+
 ---
 
 
