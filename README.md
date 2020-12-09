@@ -1,4 +1,4 @@
-![muse](./images/BaniereMBS.png)
+![muse](https://github.com/benjaminpillot/FormationPython/blob/master/images/BaniereMBS.png)
 
 # Programme du jour
 
