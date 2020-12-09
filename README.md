@@ -1,4 +1,4 @@
-![alt text](https://github.com/benjaminpillot/FormationPython/BaniereMBS.png)
+![muse](./images/BaniereMBS.png)
 
 # Programme du jour
 
