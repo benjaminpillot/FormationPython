@@ -2,8 +2,8 @@
 ![](https://groupes.renater.fr/wiki/montpellier-biostat/_media/public/kim_muse_data_life_science.png)
 ![](https://groupes.renater.fr/wiki/montpellier-biostat/_media/public/logo_muse.jpg)
 
-<div align="center">
-# https://groupes.renater.fr/wiki/montpellier-biostat/
+# <div align="center">
+https://groupes.renater.fr/wiki/montpellier-biostat/
 </div>
 
 ---
