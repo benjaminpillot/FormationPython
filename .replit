@@ -2,4 +2,4 @@
 #run = "bash run_button.sh"
 
 language = "python3"
-run = "python ./examples/geopandas_example.py"
+run = "python ./tps/tp1.py"

@@ -56,27 +56,21 @@ print(some_value)
 ```
 
 
-
-
-## Mutable vs. immutable ?
-In Python, there is an important difference between mutable and immutable data types and objects. Typically, a list is a mutable object. Let's see what happens:
+## Functions
+Functions in Python are some pre saved instructions that produce a specific output with respect to input arguments defined by the user. They follow the syntax:
 
 ```python
-def my_function(alist):
-    alist[0]="value has been changed"
+output = function_name(arg1, arg2, ..., argN)
 ```
 
+See the function `type` which returns the type of a variable:
 ```python
->>>my_list = [1, 7, 8, 3]
->>>another_list = alist
->>>print(another_list)
-[1,7,8,3]
->>>my_function(my_list)
->>>print(another_list)
-["value has been changed", 7, 8, 3]
+a = 3
+type(a)
+
+<class 'int'>
 ```
 
-In Python, variable are passed "by reference": it means there is no copy of the variable. The program points towards the same memory location both inside and outside the function. If an immutable object is passed to a function that manipulates it, it will be changed in place (see above). Remember that when you _assign_ a value to a variable with immutable data types (`my_variable=5`), you create a new memory block where that value is stored. __But__ when you _assign_ a mutable object to another variable (`another_list=alist=[2,3,4,5]`) you do not make a copy of it but instead point to the same memory block ! So always be careful in your programs. If you really need to manipulate a list and return a new list from it, you may use a copy by calling `new_list = old_list.copy()`.
 
 
 ## Objects
@@ -142,7 +136,7 @@ class Car:
     """
 ```
 
-Let's see the [`Time`](./FormationPython#examples/time_class.py) object example. This class gathers several concepts that we will work on later.
+Let's see the [`Time`](./FormationPython-Lundi-1412#examples/time_class.py) object example. This class gathers several concepts that we will work on later.
 
 ## Built-in objects
 The `str` type in Python allows, as the `Time` object, to call some methods we would use with `int` and `float` types:
@@ -194,17 +188,17 @@ array([[ 4,  0,  0, 18 ],
        [ 2,  0,  0, 16 ],
        [ 6, 32,  0, 12 ]])
 ```
-See also the small code [here](./FormationPython#examples/numpy_example.py)
+See also the small code [here](./FormationPython-Lundi-1412#examples/numpy_example.py)
 
 
 ### `pandas` dataframes and series
 
 * dataframes
-`pandas` dataframes are a specific way of reading data tables with various data types. See the small example [here](./FormationPython#examples/dataframe_example.py)
+`pandas` dataframes are a specific way of reading data tables with various data types. See the small example [here](./FormationPython-Lundi-1412#examples/dataframe_example.py)
 
 * series
-`pandas` series typically stand for one-dimensional ndarray with axis labels. One common example is a time series (see example [here](./FormationPython#examples/series_example.py)).
+`pandas` series typically stand for one-dimensional ndarray with axis labels. One common example is a time series (see example [here](./FormationPython-Lundi-1412#examples/series_example.py)).
 
 ### `geopandas` dataframes and `geoseries`
 
-geodataframes are geographic dataframes with one column for geometry. See the small example [here](./FormationPython#examples/geopandas_example.py)
+geodataframes are geographic dataframes with one column for geometry. See the small example [here](./FormationPython-Lundi-1412#examples/geopandas_example.py)
